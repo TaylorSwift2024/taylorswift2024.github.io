@@ -36,9 +36,14 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/1280px-flag-of-the-united-states.svg-128x67.png",
     "noImageResize": "",
-    "uniqCompNum": 5,
+    "uniqCompNum": 8,
     "versionPublish": "4.8.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://taylorswift2024.github.io/",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
